@@ -1,0 +1,3 @@
+start compiler.exe config
+
+
